@@ -53,3 +53,6 @@ Through this project, I practiced:
 
 This project is part of my Data Science learning and portfolio development.
 
+## Visualization.
+
+![Product-wise Sales](product_wise_sales.png)
