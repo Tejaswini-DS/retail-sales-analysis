@@ -5,8 +5,11 @@ This Project Analyzes retail sales data using Python and Pandas. The goal is to 
 ## Technologies Used
 
 *Python
+
 *Pandas
+
 *Matplotlib
+
 *Ecel/CSV
 
 ## Dataset
