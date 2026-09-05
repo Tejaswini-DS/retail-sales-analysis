@@ -1,4 +1,4 @@
-<img width="3000" height="1800" alt="product_wise_sales" src="https://github.com/user-attachments/assets/4c9409a4-5cbe-4d13-afc9-5ffe06a9e047" />##  📌Project Overview
+##  📌Project Overview
 
 This Project Analyzes retail sales data using Python and Pandas. The goal is to calculate product-wise sales, identify the best-selling product, find the product generating the highest revenue, and visualize sales performance using graphs.
 
@@ -81,5 +81,5 @@ This project is part of my Data Science learning and portfolio development.
 
 ## 📊Visualization.
 
-![Product wise Sales](product_wise_sales.png)
+<img width="3000" height="1800" alt="product_wise_sales" src="https://github.com/user-attachments/assets/4c9409a4-5cbe-4d13-afc9-5ffe06a9e047" />
 
