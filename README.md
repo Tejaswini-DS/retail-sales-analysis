@@ -1,9 +1,9 @@
-## Project Overview
+##  📌Project Overview
 
 This Project Analyzes retail sales data using Python and Pandas. The goal is to calculate product-wise sales, identify the best-selling product, find the product generating the highest revenue, and visualize sales performance using graphs.
 
 
-## Technologies Used
+## 🛠️Technologies Used
 
 *Python
 
@@ -14,7 +14,7 @@ This Project Analyzes retail sales data using Python and Pandas. The goal is to 
 *Ecel/CSV
 
 
-## Dataset
+## 📂Dataset
 
 The dataset contains information about:
 
@@ -27,7 +27,7 @@ The dataset contains information about:
 *Price
 
 
-## Analysis Performed
+## 🔍Analysis Performed
 
 The Project includes:
 
@@ -44,7 +44,7 @@ The Project includes:
 6.Comparing products using data visualization.
 
 
-## Key Insights
+## 💡Key Insights
 
 The analysis hepls identify:
 
@@ -57,7 +57,7 @@ The analysis hepls identify:
 *Overall revenue generated from the available sales data.
 
 
-## Learning Outcomes
+## 🎯Learning Outcomes
 
 Through this project, I practiced:
 
@@ -74,11 +74,11 @@ Through this project, I practiced:
 *Building a beginner-level Data Science portfolio project.
 
 
-## Author
+## 👩‍💻Author
 
 This project is part of my Data Science learning and portfolio development.
 
 
-## Visualization.
+## 📊Visualization.
 
 ![Product-wise Sales](product_wise_sales.png)
