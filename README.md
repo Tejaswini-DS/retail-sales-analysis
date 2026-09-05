@@ -23,7 +23,7 @@ The dataset contains information about:
 The Project includes:
 
 1.Loading sales data from a csv file.
-2.Calculating Total Sales for each product/
+2.Calculating Total Sales for each product.
 3.Calculating Total Revenue.
 4.Finding the best-selling product based on quantity.
 5.Finding the highest-revenue product.
@@ -42,12 +42,12 @@ The analysis hepls identify:
 
 Through this project, I practiced:
 
-*Working with CSV datasets
-*Data manipulation using pandas
-*Creating calculated columns
-*Finding business insights from data
-*Data visualization using Matplotlib
-*Building a beginner-level Data Science portfolio project
+*Working with CSV datasets.
+*Data manipulation using pandas.
+*Creating calculated columns.
+*Finding business insights from data.
+*Data visualization using Matplotlib.
+*Building a beginner-level Data Science portfolio project.
 
 ## Author
 
